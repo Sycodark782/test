@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────☉
 ╭───────────────☉
  ☉〘 AZHAN-MX 〙☉
- ☉by David Cyril☉
+ ☉by AZHAN M4CK FYT3R
 ╰───────────────☉\n`;
     
 let menuMsg = `
@@ -74,7 +74,7 @@ let menuMsg = `
 |▫️AZHAN-MX
 |▫️a Multi device whatsapp bot
 |▫️Created by _4XH4N_
-|▫️_Repo_ :https://github.com/Sycodark782
+|▫️_Repo_ :https://github.com/Sycodark782/test.git
 *———————————————————————————*
 `;
 
